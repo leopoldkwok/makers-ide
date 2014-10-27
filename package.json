@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexmakers/makers-ide.git"
+    "url": "https://github.com/makersacademy/makers-ide.git"
   },
   "author": "Makers Academy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexmakers/makers-ide/issues"
+    "url": "https://github.com/makersacademy/makers-ide/issues"
   },
-  "homepage": "https://github.com/alexmakers/makers-ide"
+  "homepage": "https://github.com/makersacademy/makers-ide"
 }
