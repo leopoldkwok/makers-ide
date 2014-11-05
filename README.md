@@ -13,13 +13,13 @@ Once Node.js is installed (http://nodejs.org/download/), just clone the repo and
 To run the app:
 
 ~~~
-npm start
+$ npm start
 ~~~
 
 To run the test suite:
 
 ~~~
-npm test
+$ npm test
 ~~~
 
 ### TODO
