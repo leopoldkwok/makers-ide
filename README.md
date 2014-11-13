@@ -1,4 +1,4 @@
-# Makers IDE
+# Makers IDE 
 
 A super cool, multi-user IDE with [Node.js](http://nodejs.org), WebSockets, [CodeMirror](http://codemirror.net/), CSS animations. Built in a few hours so apologies for any code deficiencies :wink: :sparkling_heart:.
 
