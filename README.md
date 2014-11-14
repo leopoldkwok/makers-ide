@@ -8,7 +8,7 @@ Testing is done with [mocha](https://github.com/visionmedia/mocha), [expect.js](
 
 ### Installation
 
-Once Node.js is installed (http://nodejs.org/download/), just clone the repo and run `npm install`.
+Once Node.js is installed (http://nodejs.org/download/), just clone the repo and run `npm install`. 
 
 To run the app:
 
